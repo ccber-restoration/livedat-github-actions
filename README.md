@@ -1,5 +1,11 @@
 [![License](http://i.creativecommons.org/p/zero/1.0/88x31.png)](https://raw.githubusercontent.com/weecology/livedat/master/LICENSE)
 
+# Cheadle Center documentation:
+
+- You can use this template rather than https://github.com/new/import (what's in here: https://www.updatingdata.org/githubactions/copytemplate/)
+- The  R-CMD-check.yaml file needs to be edited, as per https://github.com/weecology/livedat-github-actions/issues/4
+- data checks (aka automated tests, "unit tests") will live in the testthat directory
+
 # livedat with GitHub Actions
 
 This is a **Template Repo** designed to assist in setting up a repository for regularly-updated data 
