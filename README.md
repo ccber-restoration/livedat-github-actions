@@ -18,8 +18,8 @@ Instructions for creating an updating data workflow can be found at our companio
 
     1. Clone the repository
     2. Configure the repository for your project
-    3. ~Connect to Zenodo~
-    4. ~Connect to Travis~
+    ~~Connect to Zenodo~~
+    ~~Connect to Travis~~
     5. Allow automated updating
     6. Add data code
     7. Add data
